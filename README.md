@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MiCa330
-- 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning whatever school's tesching
-- 💞️ I’m looking to collaborate on VEX V5 projects
-- 📫 How to reach me - email or phone
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love music!
+- 👋 hi, i'm mia! (she/her)
+- 💻 interested in computer science and programming
+- 📚 studying at UCF
+- 🎮 currently playing cyberpunk 2077
+- 🎢 rollercoaster enthusiast
 
 <!---
 MiCa330/MiCa330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
